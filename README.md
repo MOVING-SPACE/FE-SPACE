@@ -6,7 +6,7 @@
     </a>
   <br>
   <p>
-    <em>每天分享一道前端题目，大家一起进步。</em>
+    <em style="font-style:normal;font-size:12px;">每天分享一道前端题目，大家一起进步。</em>
   </p>
 </div>
 
