@@ -30,6 +30,4 @@
 
 我们采用 Facebook 的行为准则，希望项目参与者能够共同遵守。请阅读[全文](https://code.fb.com/codeofconduct/)，以便了解哪些行为是允许的，哪些是不可容忍的。
 
-#### 微信群交流
 
-<img src="http://lc-owhaxgyg.cn-n1.lcfile.com/a4e8738f314c4ea9cc14.png" width="200px" />
