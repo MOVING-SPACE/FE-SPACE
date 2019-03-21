@@ -33,3 +33,5 @@
 #### 微信公众号
 
 微信搜索 `Moving-Space` 加入该公众号，即可每天获取题目的最新动态。
+
+<img src="http://lc-owhaxgyg.cn-n1.lcfile.com/6ec6d679441ad542ccf8.jpg" width="100" />
